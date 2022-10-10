@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#FCBE00</color>
+
+    <color name="bg_backround">#F8F8F8</color>
+    <color name="blacklight">#BF000000</color>
+    <color name="blue">#FCBE00</color>
+    <color name="steelgrey">#78A3C2</color>
+    <color name="card_bg">#0DFCBE00</color>
+    <color name="transparent">#00000000</color>
+    <color name="backgnd">#f9f7f7</color>
+    <color name="bg_gray">#ecedef</color>
+    <color name="light_grey_blue">#F1F6F9</color>
+    <color name="greish">#8F000000</color>
+    <color name="html_txt_color">#797979</color>
+
+    <color name="orange">#fe8c0f</color>
+    <color name="peproo_orange">#F04E02</color>
+    <color name="light_red">#F8C2A9</color>
+    <color name="red">#DE222C</color>
+    <color name="green">#00B41D</color>
+    <color name="greendark">#32BD49</color>
+    <color name="grey">#DDDDDD</color>
+
+
+    <color name="dark_gray">#585858</color>
+    <color name="light_gray">#707070</color>
+
+    <color name="background_color">#F8F8F8</color>
+    <color name="background_white">#E5E5E5</color>
+    <color name="yellowdark">#FCBE00</color>
+    <color name="yellowlight">#FBCA32</color>
+    <color name="yellowlightest">#FAD563</color>
+    <color name="skinlight">#FAE195</color>
+    <color name="skin">#f9ecc6</color>
+    <color name="gray">#9B9B9B</color>
+    <color name="background">#F9F9F9</color>
+    <color name="black_light">#585858</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="blue_200">#C5E7F7</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_orange">#FFBA49</color>
+    <color name="yellow">#FCBE00</color>
+
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#fff</color>
+    <color name="grayTextColor">#585858</color>
+    <color name="redTextColor">#DE222C</color>
+    <color name="primaryTextColor">#17496E</color>
+    <color name="loginBkColor">#f0f0f0</color>
+    <color name="pale_yellow">#F8F6E0</color>
+    <color name="greenlight">#F251D357</color>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User Details</string>
+
+    <string name="details">Users List</string>
+    <string name="network_error">error</string>
+
+</resources>
